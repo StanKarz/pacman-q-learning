@@ -1,31 +1,6 @@
-# mlLearningAgents.py
-#
 # Initially a stub for a reinforcement learning agent to work with the Pacman
 # piece of the Berkeley AI project:
-#
 # http://ai.berkeley.edu/reinforcement.html
-#
-# As required by the licensing agreement for the PacMan AI we have:
-#
-# Licensing Information:  You are free to use or extend these projects for
-# educational purposes provided that (1) you do not distribute or publish
-# solutions, (2) you retain this notice, and (3) you provide clear
-# attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
-# 
-# Attribution Information: The Pacman AI projects were developed at UC Berkeley.
-# The core projects and autograders were primarily created by John DeNero
-# (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
-# Student side autograding was added by Brad Miller, Nick Hay, and
-# Pieter Abbeel (pabbeel@cs.berkeley.edu).
-
-# This Q-Learning agent was implemented in Mar. 2023 as part of Coursework 2
-# for ML1/PRE module by group "AI", consisting of:
-# Stanislav Karzhev (K2257361),
-# Joshua O'Hara (K21176641),
-# Seamus White (K21220669)
-# Innokentii Grigorev (K20073502)
-# based on the code by Simon Parsons, Dylan Cope, Lin Li, 2022.
-
 
 from __future__ import absolute_import
 from __future__ import print_function
